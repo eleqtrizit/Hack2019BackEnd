@@ -1,0 +1,35 @@
+body {
+    color: black;
+}
+
+input {
+    border: 1px solid transparent;
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-size: 16px;
+}
+input[type="text"] {
+    background-color: #f1f1f1;
+    width: 50%;
+}
+input[type="submit"] {
+    background-color: DodgerBlue;
+    color: #fff;
+}
+
+.foodfix {
+    padding: 20px;
+}
+
+.foodfix div {
+    padding-bottom: 20px;
+}
+
+#groupless {
+    float: left;
+    padding-right: 100px;
+}
+
+#groups {
+    float: left;
+}
